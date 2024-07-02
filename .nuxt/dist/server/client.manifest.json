@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "D:/22.11.4738/responsi_pemrogramman_web/responsi_pemrogramman_web/node_modules/nuxt/dist/app/entry.js": {
+  "D:/PEMROGRAMMAN WEB/Responsi/responsi_pemrogramman_web/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "D:/22.11.4738/responsi_pemrogramman_web/responsi_pemrogramman_web/node_modules/nuxt/dist/app/entry.js"
+    "file": "D:/PEMROGRAMMAN WEB/Responsi/responsi_pemrogramman_web/node_modules/nuxt/dist/app/entry.js"
   }
 }

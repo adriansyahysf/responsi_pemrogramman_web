@@ -9,11 +9,11 @@
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="assets/Yinlin.png" alt="Admin" class="rounded-circle" width="150">
+                    <img src="assets/img/Yinlin.png" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Adriansyah Yusuf Bimantara</h4>
-                      <p class="text-secondary mb-1">Front End</p>
-                      <p class="text-muted font-size-sm">Silicon Valley, San Francisco, California</p>
+                      <p class="text-secondary mb-1">Mahasiswa</p>
+                      <p class="text-muted font-size-sm">Universitas Amikom Yogyakarta</p>
                       <button class="btn btn-primary">Follow</button>
                       <button class="btn btn-outline-primary">Message</button>
                     </div>

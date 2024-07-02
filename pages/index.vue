@@ -22,6 +22,9 @@ export default {
     <AboutSection />
   </div>
   <div>
-    <ContantSection />
+    <ProjectsSection />
+  </div>
+  <div>
+    <ContactSection />
   </div>
 </template>
