@@ -1,7 +1,7 @@
 <template>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   
-  <section id="about" class="about">
+  <section id="skills" class="about">
     <div class="title" data-aos="fade-up">
     <h2>Skills</h2>
     </div>

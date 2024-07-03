@@ -2,10 +2,10 @@
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css'>
   <section class="hero1" id="hero1">
    <div class="container" >
-    <div class="main-body" data-aos="fade-up">
-        <div class="title">
+    <div class="title" data-aos="zoom-in">
           <h2>About Me</h2>
         </div>
+          <div class="main-body" data-aos="fade-right" data-aos-duration="2000">
           <div class="row gutters-sm">
             <div class="col-md-4 mb-3">
               <div class="card">

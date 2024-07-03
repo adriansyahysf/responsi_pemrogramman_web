@@ -9,7 +9,7 @@
       <HeroSection1 />
     </div>
     <div>
-      <AboutSection />
+      <SkillsSection />
     </div>
     
     <div>
@@ -26,7 +26,7 @@
 
 <script>
 import HeroSection from '~/components/HeroSection.vue';
-import AboutSection from '~/components/AboutSection.vue';
+import SkillsSection from '~/components/SkillsSection.vue';
 import ProjectsSection from '~/components/ProjectsSection.vue';
 import ContactSection from '~/components/ContactSection.vue';
 import Navbarku from '~/components/Navbarku.vue'; 
@@ -36,7 +36,7 @@ export default {
   components: {
     Navbarku,
     HeroSection,
-    AboutSection,
+    SkillsSection,
     ProjectsSection,
     ContactSection,
     HeroSection1
