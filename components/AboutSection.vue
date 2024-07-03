@@ -3,7 +3,7 @@
   
   <section id="about" class="about">
     <div class="title" data-aos="fade-up">
-    <h2>About Me</h2>
+    <h2>Skills</h2>
     </div>
     <div class="content" data-aos="fade-up">
       <div class="row justify-content-center">
@@ -11,14 +11,13 @@
           <div class="card mx-auto h-100">
             <div class="card-body" >
               <div class="About-Skills">
-                <h2>My Skills</h2>
                 <small>HTML</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
-                  <div class="progress-bar bg-primary" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 50%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                 </div data-aos="fade-down">
                 <small>CSS</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
-                  <div class="progress-bar bg-primary" role="progressbar" style="width: 70%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 50%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
                 </div data-aos="fade-down">
                 <small>C++</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
@@ -26,11 +25,11 @@
                 </div data-aos="fade-down">
                 <small>Design</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
-                  <div class="progress-bar bg-primary" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 70%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                 </div data-aos="fade-down">
                 <small>MySQL</small>
                 <div class="progress mb-3" style="height: 5px" data-aos="zoom-in" data-aos-duration="3000">
-                  <div class="progress-bar bg-primary" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 45%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
             </div>
@@ -125,5 +124,6 @@ export default {
   border: 3px solid #fff;
   border-radius: 5px;
 }
+
 
 </style>

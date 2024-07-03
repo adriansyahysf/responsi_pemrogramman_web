@@ -6,8 +6,12 @@
       <HeroSection />
     </div>
     <div>
+      <HeroSection1 />
+    </div>
+    <div>
       <AboutSection />
     </div>
+    
     <div>
       <ProjectsSection />
     </div>
@@ -25,7 +29,8 @@ import HeroSection from '~/components/HeroSection.vue';
 import AboutSection from '~/components/AboutSection.vue';
 import ProjectsSection from '~/components/ProjectsSection.vue';
 import ContactSection from '~/components/ContactSection.vue';
-import Navbarku from '~/components/Navbarku.vue'; // Adjust the path as necessary
+import Navbarku from '~/components/Navbarku.vue'; 
+import HeroSection1 from '~/components/HeroSection1.vue';
 
 export default {
   components: {
@@ -33,7 +38,8 @@ export default {
     HeroSection,
     AboutSection,
     ProjectsSection,
-    ContactSection
+    ContactSection,
+    HeroSection1
   }
 }
 </script>

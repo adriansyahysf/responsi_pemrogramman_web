@@ -26,7 +26,7 @@ export default {
 .hero {
   text-align: center;
   margin-top: -110px;
-  margin-bottom: 80px;
+  margin-bottom: 130px;
 
 }
 

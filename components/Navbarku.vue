@@ -7,7 +7,7 @@
       <div class="navbar-right">
         <ul>
           <li><a href="#header">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href="#hero1">About</a></li>
           <li><a href="#project">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
