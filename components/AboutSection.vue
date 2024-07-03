@@ -39,7 +39,7 @@
       </div>
     </div>
 
-    <div class="game" data-aos="fade-up" data-aos-duration="2000">
+    <div class="game" data-aos="flip-left">
       <div class="title-2">
         <h2>The Games I Play</h2>
       </div>
