@@ -109,6 +109,6 @@ export default {
 }
 
 .main-body {
-  padding-top: 150px; 
+  padding-top: 130px; 
 }
 </style>

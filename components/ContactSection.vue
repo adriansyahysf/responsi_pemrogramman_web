@@ -18,6 +18,15 @@
           </a>
         </div>
       </div>
+      <div class="contact-info">
+        <div class="contact-item">
+          <span>(+62) 000-111-2222</span>
+        </div>
+        <div class="contact-item">
+          
+          <span>adriansyahysf@example.com</span>
+        </div>
+      </div>
     </div>
   </section>
 </template>
@@ -26,6 +35,7 @@
 export default {
   name: 'ContactSection'
 }
+
 </script>
 
 <style scoped>
@@ -67,5 +77,23 @@ export default {
   color: #007bff; 
 }
 
+.contact-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
 
+.contact-item {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-size: 1rem;
+  margin: 0 15px;
+}
+
+.contact-item i {
+  font-size: 1.5rem;
+  margin-right: 8px;
+}
 </style>
