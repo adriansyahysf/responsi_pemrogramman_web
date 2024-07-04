@@ -55,7 +55,7 @@
         <div class="card" data-aos="flip-up" data-aos-duration="3000">
           <a href="https://wutheringwaves.kurogames.com/en/" target="_blank">
             <div class="game-image-wrapper">
-              <img src="assets/img/Wuwa.png" width="100px" height="100" alt="Wuthering Waves">
+              <img src="assets/img/wuwa.png" width="100px" height="100" alt="Wuthering Waves">
               <div class="game-name">Wuthering Waves</div>
             </div>
           </a>
@@ -63,7 +63,7 @@
         <div class="card" data-aos="flip-up" data-aos-duration="2000">
           <a href="https://hsr.hoyoverse.com/ua2?lp=sr03&utm_source=SEA_google_SEA_search_UA2_Brand&hoyotrace_channel=ga_channel&gad_source=1&gclid=Cj0KCQjw7ZO0BhDYARIsAFttkCg-yGkTS_fJvCkikpavu6Qo8gv-NnbLf7WybPHZD7GUm83xe2WHXX8aAnPJEALw_wcB" target="_blank">
             <div class="game-image-wrapper">
-              <img src="assets/img/HSR.png" width="100px" height="100" alt="Honkai: Star Rail">
+              <img src="assets/img/hsr.png" width="100px" height="100" alt="Honkai: Star Rail">
               <div class="game-name">Honkai: Star Rail</div>
             </div>
           </a>
