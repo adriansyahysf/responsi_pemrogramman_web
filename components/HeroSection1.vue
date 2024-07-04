@@ -1,12 +1,14 @@
 <template>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css'>
   <section class="hero1" id="hero1">
-   <div class="container" >
-    <div class="title-4" data-aos="zoom-in">
-          <h2>About Me</h2>
-        </div>
-        <div class="wrapper">
-          <div class="main-body mt-8" data-aos="fade-right" data-aos-duration="2000">
+    <div class="container">
+      
+
+        <div class="main-body mt-8" data-aos="fade-right" data-aos-duration="2000">
+          <div class="title-4" data-aos="zoom-in">
+            <h2>About Me</h2>
+          </div>
+          
           <div class="row gutters-sm">
             <div class="col-md-4 mb-3">
               <div class="card">
@@ -14,7 +16,7 @@
                   <div class="d-flex flex-column align-items-center text-center">
                     <img src="assets/img/foto_porto.jpg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3 mb-3">
-                      <h4>Adriansyah Yusuf bimantara </h4>
+                      <h4>Adriansyah Yusuf Bimantara</h4>
                       <p class="text-secondary mb-1">Mahasiswa</p>
                       <p class="text-muted font-size-sm">Universitas Amikom Yogyakarta</p>
                     </div>
@@ -72,12 +74,10 @@
                   <hr>
                 </div>
               </div>
-             </div>
             </div>
           </div>
         </div>
     </div>
-   
   </section>
 </template>
 
@@ -86,23 +86,29 @@ export default {
   name: 'HeroSection'
 }
 </script>
+
 <style scoped>
+
 .hero {
   text-align: center;
   padding: 100px 0;
 }
 
 .title-4 {
-  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px; 
   color: #fff;
 }
 
-.card-body{
+.card-body {
   margin-bottom: -10px;
 }
 
-.container{
+.container {
   margin-top: 100px;
 }
 
+.main-body {
+  padding-top: 150px; 
+}
 </style>

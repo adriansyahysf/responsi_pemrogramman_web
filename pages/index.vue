@@ -61,7 +61,6 @@ body {
   margin-bottom: 1px;
 }
 
-/* Add the following styles */
 .sticky-nav {
   position: sticky;
   top: 0;
